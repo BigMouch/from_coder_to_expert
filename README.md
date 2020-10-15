@@ -1,5 +1,3 @@
-https://github.com/0voice/from_coder_to_expert 原文地址
-
 ### 2020年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
 
 ### 整理大牛分享文档如下，持续更新一线开发架构，技术文档
